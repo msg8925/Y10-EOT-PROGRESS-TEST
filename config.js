@@ -8,9 +8,9 @@ window.TEST_CONFIG = {
 
   // Google Apps Script web-app URL (README, step 2). While this is not set, the page
   // marks locally using teacher-only/answer-key.js, so you can preview it on your own computer.
-  appsScriptUrl: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE',
+  appsScriptUrl: 'https://script.google.com/macros/s/AKfycbxTY9-w1d4lDoKCt8N2trS00inH8oLQwZPNMG7GGbXfZPZnQVF3T6ZixDJiHaiaOl5fDA/exec',
   // Must match SHARED_KEY in Code.gs. Stops random people posting to your script.
-  sharedKey: 'change-this-to-a-random-phrase',
+  sharedKey: 'h#7Dh@-RFhh4!8(.J1Yuk9#hdn54j_',
 
   // Show a "Start code" box. Set the code itself in Code.gs (START_CODE) so students can't read it here.
   askStartCode: true,
